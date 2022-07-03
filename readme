@@ -1,0 +1,6 @@
+Bot to be used as a clock for keeping track of billable time in a repair shop.
+Todos:
+    Rewrite with interrupts rather than a horrible clock based cycle
+    Add support for 7 segment displays
+    Config file for inputting pins rather than editing main
+    

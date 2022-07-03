@@ -1,0 +1,26 @@
+
+inputs:
+3-4 buttons for timers, 3 leds with it to signify which ones are on, multiple can be on)
+1 reset button (press reset with button to reset that timer, or hold for 5 seconds to clear all)
+1 pot for contrast of screen
+
+display:
+___________________
+----
+Clock color: (display time)
+Current time:
+---
+
+---
+No clocks are running
+
+---
+
+---
+DEBUG: Mem_storage: [x]
+uptime: [x]
+---
+_______________________
+
+memory:
+on reset over x amount of time, write date, time, and total time elapsed to file (depends on storage size)
